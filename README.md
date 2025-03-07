@@ -1,4 +1,4 @@
-# Personal Profile - 3MTT Mini Project  
+# Personal Profile - HTML Mini Project  
 
 ## 📌 Project Overview  
 This is a simple **personal profile webpage** created using **HTML only** as part of the **3MTT Software Development Training**. The project showcases basic HTML elements, including header, nav, section, headings, paragraphs, lists, links, and footer.  
